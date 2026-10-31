@@ -1,0 +1,20 @@
+# SolveX Backend & Machine Learning Dependencies
+
+# Web API & Database Framework
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+sqlalchemy>=2.0.28
+pydantic>=2.6.4
+python-dotenv>=1.0.1
+httpx>=0.27.0
+
+# Data Engineering & Machine Learning (clean_data.ipynb & train.ipynb)
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+joblib>=1.3.0
+
+# Jupyter Notebook Kernel Support
+ipykernel>=6.29.0

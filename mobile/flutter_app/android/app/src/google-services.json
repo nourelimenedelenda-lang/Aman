@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "752026428130",
+    "firebase_url": "https://aman-d8248-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "aman-d8248",
+    "storage_bucket": "aman-d8248.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752026428130:android:b97a18e3ec61756c59f4bb",
+        "android_client_info": {
+          "package_name": "com.example.aman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752026428130-fkgfks23esa56impluh4ohmtm38dekhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aman",
+            "certificate_hash": "cb7a81b5239c969fd7abe43c52b177710e17fbc4"
+          }
+        },
+        {
+          "client_id": "752026428130-0uf5larjphh2f2fk7m7rsk2efufauptd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq-Gaiy1Q6jhlhNo-CkYTc7dNGOsmfUOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752026428130-0uf5larjphh2f2fk7m7rsk2efufauptd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

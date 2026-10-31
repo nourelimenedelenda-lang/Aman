@@ -1,0 +1,12 @@
+vehicle_category,count,share_ratio,share_percent
+Light vehicles,19139,0.6085,60.85
+Trucks,3257,0.1035,10.35
+Two-wheeled motorcycles,7065,0.2246,22.46
+Passenger transport vehicles,781,0.0248,2.48
+Trailers,592,0.0188,1.88
+Bicycles,228,0.0072,0.72
+Agricultural machinery,108,0.0034,0.34
+Trains,49,0.0016,0.16
+Public works machinery,29,0.0009,0.09
+Tramways,10,0.0003,0.03
+Unknown,197,0.0063,0.63

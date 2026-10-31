@@ -1,0 +1,48 @@
+factor_group,cause,count,share_ratio,share_percent
+Human,Driver inattention in built-up areas,3221,0.129727,12.973
+Human,Excessive speed,3094,0.124612,12.461
+Human,Other human factors,1885,0.075919,7.592
+Human,Pedestrian lack of caution when crossing,1582,0.063716,6.372
+Human,Loss of vehicle control,1564,0.062991,6.299
+Human,Dangerous overtaking,1376,0.055419,5.542
+Human,Failure to yield priority,1284,0.051714,5.171
+Human,Dangerous manoeuvres,1070,0.043095,4.309
+Human,Failure to use seat belt,1061,0.042732,4.273
+Human,Driver lack of caution when crossing intersections,921,0.037094,3.709
+Human,Failure to maintain safety distance,911,0.036691,3.669
+Human,Driver distraction,843,0.033952,3.395
+Human,Driving without required licence,797,0.0321,3.21
+Human,Playing/walking on roadway or road edge,791,0.031858,3.186
+Human,Driving on the left,773,0.031133,3.113
+Human,Failure to obey traffic signs,485,0.019534,1.953
+Human,Driving under influence of alcohol or psychotropic substances,458,0.018446,1.845
+Human,Changing direction without signalling,448,0.018043,1.804
+Human,Driver inattention when leaving a stopping place,420,0.016916,1.692
+Human,Driver lack of caution when reversing,289,0.01164,1.164
+Human,Driving in prohibited direction,223,0.008981,0.898
+Human,Failure to respect stop sign,187,0.007532,0.753
+Vehicle,Ineffective brakes,145,0.00584,0.584
+Vehicle,Tyre rupture / burst,142,0.005719,0.572
+Human,Illegal stopping or parking,108,0.00435,0.435
+Environment,Road not in good condition,97,0.003907,0.391
+Vehicle,Mechanical failure,71,0.00286,0.286
+Environment,Bad weather conditions,64,0.002578,0.258
+Human,Use of mobile phone / listening to radio,57,0.002296,0.23
+Environment,Missing traffic signs,56,0.002255,0.226
+Human,Glare from lights,52,0.002094,0.209
+Environment,Animal traffic / animals on road,46,0.001853,0.185
+Vehicle,Non-compliant lighting,42,0.001692,0.169
+Environment,Other environmental factors,42,0.001692,0.169
+Environment,Slippery road,36,0.00145,0.145
+Vehicle,Other vehicle factors,35,0.00141,0.141
+Human,Walking/stopping on emergency lane,32,0.001289,0.129
+Vehicle,Lighting failure,31,0.001249,0.125
+Vehicle,Steering system failure,16,0.000644,0.064
+Vehicle,Unbalanced or unsafe load,16,0.000644,0.064
+Human,Pedestrian lack of caution when crossing railway,14,0.000564,0.056
+Environment,Potholes,13,0.000524,0.052
+Environment,Sun glare,10,0.000403,0.04
+Environment,Road deformation,8,0.000322,0.032
+Environment,Unsuitable road environment,6,0.000242,0.024
+Environment,Missing lighting,6,0.000242,0.024
+Environment,Road obstacles,1,4e-05,0.004

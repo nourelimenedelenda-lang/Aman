@@ -1,0 +1,6 @@
+created_at,wilaya,latitude,longitude,medical_condition,injured_count,hazards,vehicles_count,severe_weather,nighttime,verification_status
+2026-10-30 08:15:00,Alger,36.7538,3.0588,,2,,2,,,
+2026-10-30 14:40:00,Oran,35.6971,-0.6308,,0,,1,,,
+2026-10-30 19:05:00,Constantine,36.365,6.6147,,3,,3,,,
+2026-10-31 00:20:00,Blida,36.47,2.83,,1,,2,,,
+2026-10-31 06:30:00,Setif,36.19,5.41,,0,,1,,,

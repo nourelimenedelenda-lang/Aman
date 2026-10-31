@@ -1,0 +1,42 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+ios/Flutter/.last_build_id
+ios/Flutter/Generated.xcconfig
+ios/Flutter/AppFrameworkInfo.plist
+ios/Runner/GeneratedPluginRegistrant.{h,m,swift}
+ios/Runner/Info.plist
+android/.gradle/
+android/app/build/
+android/app/src/main/kotlin/**/generated/**
+# Android Studio
+.idea/
+*.iml
+# VS Code
+.vscode/
+# macOS
+.DS_Store
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+ENV/
+.mypy_cache/
+.pytest_cache/
+# FastAPI
+instance/
+# dotenv
+.env
+# Logs
+*.log
+# Other
+*.swp
+# End of file

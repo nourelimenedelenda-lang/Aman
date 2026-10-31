@@ -1,0 +1,69 @@
+{
+  "scaler_stats": {
+    "latitude": {
+      "min": 34.6228,
+      "max": 36.80371
+    },
+    "longitude": {
+      "min": -1.36493,
+      "max": 6.66463
+    },
+    "vehicles_count": {
+      "min": 1,
+      "max": 5
+    },
+    "injured_count": {
+      "min": 0,
+      "max": 7
+    },
+    "deaths_count": {
+      "min": 0,
+      "max": 3
+    },
+    "witness_count": {
+      "min": 1,
+      "max": 5
+    },
+    "hour": {
+      "min": 0,
+      "max": 23
+    }
+  },
+  "categorical_columns": {
+    "wilayas": [
+      "Alger",
+      "Batna",
+      "Blida",
+      "Bouira",
+      "Chlef",
+      "Constantine",
+      "Djelfa",
+      "Oran",
+      "Setif",
+      "Tlemcen"
+    ],
+    "road_types": [
+      "East-West motorway",
+      "Highways / expressways",
+      "Municipal roads",
+      "National roads",
+      "Other rural roads",
+      "Wilaya roads"
+    ],
+    "vehicles": [
+      "Light vehicles",
+      "Other machinery",
+      "Passenger transport vehicles",
+      "Trailers",
+      "Trucks",
+      "Two-wheeled motorcycles"
+    ]
+  },
+  "train_samples": 8000,
+  "test_samples": 2000,
+  "target_mapping": {
+    "BLUE": 0,
+    "YELLOW": 1,
+    "RED": 2
+  }
+}

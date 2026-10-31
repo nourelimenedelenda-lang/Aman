@@ -1,0 +1,10 @@
+indicator,area,period_2023,period_2024,absolute_change,change_percent,Source note
+accidents,Urban,16299,18000,1701,0.1044,Percentages are copied from the source report; do not recompute from rounded displayed totals.
+accidents,Rural,7207,6829,-378,-0.0524,
+accidents,National,23506,24829,1323,0.0563,
+injuries,Urban,19734,21920,2186,0.1108,
+injuries,Rural,12533,11618,-915,-0.073,
+injuries,National,32267,33538,1271,0.0394,
+deaths,Urban,645,719,74,0.1147,
+deaths,Rural,2794,2784,-10,-0.0036,
+deaths,National,3439,3503,64,0.0186,

@@ -1,0 +1,94 @@
+{
+  "model_type": "GradientBoosting",
+  "accuracy": 0.978,
+  "macro_f1": 0.96,
+  "feature_count": 49,
+  "feature_names": [
+    "latitude",
+    "longitude",
+    "vehicles_count",
+    "injured_count",
+    "deaths_count",
+    "fire",
+    "trapped_victims",
+    "high_risk_health",
+    "severe_weather",
+    "nighttime",
+    "in_blackspot",
+    "on_national_corridor",
+    "witness_count",
+    "sensor_triggered",
+    "human_confirmed",
+    "perimeter_anomaly",
+    "hour",
+    "is_weekend",
+    "sin_hour",
+    "cos_hour",
+    "wilaya_Alger",
+    "wilaya_Batna",
+    "wilaya_Blida",
+    "wilaya_Bouira",
+    "wilaya_Chlef",
+    "wilaya_Constantine",
+    "wilaya_Djelfa",
+    "wilaya_Oran",
+    "wilaya_Setif",
+    "wilaya_Tlemcen",
+    "road_East_West_motorway",
+    "road_Highways___expressways",
+    "road_Municipal_roads",
+    "road_National_roads",
+    "road_Other_rural_roads",
+    "road_Wilaya_roads",
+    "veh_Light_vehicles",
+    "veh_Other_machinery",
+    "veh_Passenger_transport_vehicles",
+    "veh_Trailers",
+    "veh_Trucks",
+    "veh_Two_wheeled_motorcycles",
+    "latitude_scaled",
+    "longitude_scaled",
+    "vehicles_count_scaled",
+    "injured_count_scaled",
+    "deaths_count_scaled",
+    "witness_count_scaled",
+    "hour_scaled"
+  ],
+  "target_classes": {
+    "0": "BLUE",
+    "1": "YELLOW",
+    "2": "RED"
+  },
+  "top_features": [
+    {
+      "trapped_victims": 0.1448
+    },
+    {
+      "in_blackspot": 0.1025
+    },
+    {
+      "injured_count_scaled": 0.0698
+    },
+    {
+      "nighttime": 0.0694
+    },
+    {
+      "witness_count_scaled": 0.0671
+    },
+    {
+      "fire": 0.0657
+    },
+    {
+      "injured_count": 0.0636
+    },
+    {
+      "high_risk_health": 0.0609
+    },
+    {
+      "human_confirmed": 0.0566
+    },
+    {
+      "witness_count": 0.0542
+    }
+  ]
+}

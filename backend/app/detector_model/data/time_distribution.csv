@@ -1,0 +1,14 @@
+dimension,category,accident_count,share_percent,source_page
+Time of day,00:00–06:00,1779,0.0717,9
+Time of day,06:00–09:00,1722,0.0694,9
+Time of day,09:00–12:00,3461,0.1394,9
+Time of day,12:00–15:00,4350,0.1752,9
+Time of day,15:00–18:00,5299,0.2134,9
+Time of day,18:00–24:00,8218,0.331,9
+Weekday,Sunday,3534,0.1423,9
+Weekday,Monday,3634,0.1464,9
+Weekday,Tuesday,3509,0.1413,9
+Weekday,Wednesday,3628,0.1461,9
+Weekday,Thursday,3863,0.1556,9
+Weekday,Friday,3035,0.1222,9
+Weekday,Saturday,3626,0.146,9
