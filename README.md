@@ -72,5 +72,17 @@ Feel free to open issues or submit pull requests. Follow the standard GitHub Flo
 3. Commit changes
 4. Open a PR against `main`
 
+## Screenshots
+
+| Home Dashboard | Sign In |
+|---|---|
+| ![Home Dashboard](figs/Aman%20-%20Home%20Dashboard.png) | ![Sign In](figs/Aman%20-%20Sign%20In.png) |
+| Report - Add helpful evidence | Report - Confirm Location |
+| ![Add helpful evidence](figs/Aman%20-%20Report_%20Add%20helpful%20evidence.png) | ![Confirm Location](figs/Aman%20-%20Report_%20Confirm%20Location.png) |
+| Report - Review your report | Report - Tell us what happened |
+| ![Review your report](figs/Aman%20-%20Report_%20Review%20your%20report.png) | ![Tell us what happened](figs/Aman%20-%20Report_%20Tell%20us%20what%20happened.png) |
+| Report - What are you reporting? |
+| ![What are you reporting](figs/Aman%20-%20Report_%20What%20are%20you%20reporting_.png) |
+
 ---
 
